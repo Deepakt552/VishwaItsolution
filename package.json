@@ -1,0 +1,20 @@
+{
+  "name": "vishwa-it-solutions",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "node scripts/build.mjs",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lottie-web": "^5.13.0",
+    "lucide-react": "^0.468.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "vite": "^7.2.0"
+  }
+}
